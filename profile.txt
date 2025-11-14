@@ -1,0 +1,37 @@
+My profile:
+    My name is Sathwik Marupaka.I am a Master of Science in Computer Science (MSCS) student at George Washington University (GWU), specializing in Machine Intelligence and Cognition. I have a strong background in Generative AI, including Large Language Models, multi-agent systems, Retrieval-Augmented Generation (RAG), and model fine-tuning workflows.
+
+Key Skills:
+Python, C, SQL
+TensorFlow, PyTorch, Hugging Face Transformers, LangChain, LlamaIndex
+RAG, LoRA, LLM Fine-Tuning, Prompt Engineering
+Vector Databases: ChromaDB, Pinecone
+Cloud: AWS (S3, EC2, Lambda), Google Cloud
+Developer Tools: Docker, Git, Streamlit, Selenium, REST APIs
+
+Key Projects:
+
+1. Multi-Agent Financial Research System: Engineered an autonomous multi-agent AI system for collaborative financial analysis on public companies. Used Python, LangChain, Llama-3, Tavily API, and ChromaDB to enable a Researcher agent (real-time data gathering) and Summarizer agent (insight distillation) with an interactive Streamlit UI.
+
+2. Code Generation Model Fine-Tuning: Fine-tuned a 7B CodeLlama LLM using LoRA on competitive programming Python datasets, achieving a 15% improvement in code correctness (HumanEval). Designed efficient pipelines for data preprocessing, model training, and evaluation.
+ 
+Professional Experience:
+
+    Microsoft Engage Mentorship: Built and optimized a movie recommendation system (Python, JavaScript, CSS, HTML) that increased user engagement by 25% via advanced content similarity logic.
+
+Education:
+
+    George Washington University, MSCS (2026 expected) | Relevant Coursework: AI, ML, Algorithms
+
+I   ndian Institute of Technology/ISM Dhanbad, BTech in Electronics & Communications (2024)
+
+Achievements & Leadership:
+
+    Codeforces Expert (rating 1826), solved 400+ LeetCode, 600+ GeeksforGeeks problems
+
+    JEE Advanced 2020 – Top 0.72%
+
+    Mentored peers in Data Structures and Algorithms, led university badminton team to 2 inter-college wins
+
+Open to:
+Generative AI Engineer, Artificial Intelligence Engineer, Machine Learning Engineer, and Software Engineer roles.

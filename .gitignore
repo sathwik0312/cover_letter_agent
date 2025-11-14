@@ -1,0 +1,46 @@
+# --- Security & Secret Keys (VERY IMPORTANT) ---
+
+# Ignore the OAuth credentials you downloaded from Google
+# This file is a secret and MUST NOT be on GitHub.
+credentials.json
+
+# Ignore the token file that is CREATED after you log in
+# This file is your personal key and MUST NOT be on GitHub.
+token.json
+
+# Ignore environment files that might contain your API keys
+.env
+*.env
+
+# --- Personal Information ---
+
+# Ignore your personal profile
+my_profile.txt
+
+# --- Generated Output ---
+
+# Ignore all generated PDF cover letters
+*.pdf
+
+# --- Python Virtual Environment ---
+
+# Ignore the virtual environment folder
+venv/
+.venv/
+env/
+.env/
+
+# --- Python Cache Files ---
+
+# Ignore compiled Python files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- macOS & Windows System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
